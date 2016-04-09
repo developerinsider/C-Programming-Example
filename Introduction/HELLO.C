@@ -1,7 +1,7 @@
 /*******************************************
 Statement - Print Hello World
 Programmer - Vineet Choudhary
-Written For - https://turboc.codeplex.com
+Written For - http://developerinsider.in
 ********************************************/
 
 #include <stdio.h>
