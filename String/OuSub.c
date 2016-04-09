@@ -1,5 +1,5 @@
 /*******************************************************
- Statement - Substring
+ Statement - Substring from a position to length
  Programmer - Vineet Choudhary
  Written For - http://developerinsider.in
  *******************************************************/
