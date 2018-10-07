@@ -6,16 +6,17 @@
 
 
 #include<stdio.h>
+#include<stdlib.h>
 
-struct stud {
+typedef struct stud {
     int roll;
     char name[10];
     int marks;
-};
+}Stude;
 
 int main() {
     int size;
-    struct stud s;
+    Stude stud s;
     
     size = sizeof(s);
     printf("nSize of Structure : %d", size);
