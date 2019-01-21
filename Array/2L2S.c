@@ -24,18 +24,14 @@ void main ()
     printf ("Enter the numbers \n");
     for (i=0; i<n; ++i)
         scanf ("%d",&number[i]);
-    
-    for (i=0; i<n; ++i)
-    {
-        for (j=i+1; j<n; ++j)
-        {
-            if (number[i] < number[j])
-            {
-                a        = number[i];
-                number[i] = number[j];
-                number[j] = a;
-            }
+
+
+    for (i = 0; i < n; i++){
+        a = number[i];
+        for (j = i-1; j>=0 && a<number[j] ; j--){
+            number[j+1]=number[j];
         }
+        number[j+1]=a;
     }
     
     printf ("The numbers arranged in descending order are given below\n");
