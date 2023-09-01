@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - Use structure within union
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 

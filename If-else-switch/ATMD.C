@@ -1,7 +1,7 @@
 /**************************************************************************
 Statement - ATM money dispatch count while currencies are 1000,500 and 100
 Programmer - Vineet Choudhary
-Written For - http://developerinsider.in
+Written For - https://developerinsider.co
 ***************************************************************************/
 
 #include<stdio.h>

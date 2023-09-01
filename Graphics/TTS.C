@@ -1,7 +1,7 @@
 /**********************************************
  Statement - Traffic Light Simulation
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************/
 
 #include<graphics.h>
@@ -62,7 +62,7 @@ main()
    setcolor(RED);
    settextstyle(SCRIPT_FONT, HORIZ_DIR, 3);
    settextjustify(CENTER_TEXT, CENTER_TEXT);
-   outtextxy(midx, midy, "Project by http://www.turboc.codeplex.com");
+   outtextxy(midx, midy, "Project by https://developerinsider.co");
    delay(5000);
    closegraph();
    return 0;

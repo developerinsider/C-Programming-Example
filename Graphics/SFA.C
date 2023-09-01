@@ -1,7 +1,7 @@
 /**********************************************
  Statement - Smiling Face Animation	
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************/
  
 #include<graphics.h>
@@ -34,7 +34,7 @@ main()
  
    setcolor(WHITE);
    settextstyle(SANS_SERIF_FONT,HORIZ_DIR,2);
-   outtextxy(20,451,"Smiling Face Project by http://www.turboc.codeplex.com");
+   outtextxy(20,451,"Smiling Face Project by https://developerinsider.co");
  
    setcolor(BLUE);
    rectangle(0,0,639,449);

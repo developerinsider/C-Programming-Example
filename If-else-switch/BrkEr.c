@@ -1,7 +1,7 @@
 /*******************************************************
  Statement - Switch case (Resolve Error)
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *******************************************************/
  
  /**

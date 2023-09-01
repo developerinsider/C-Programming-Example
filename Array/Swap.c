@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - accept an array of 10 elements and swap 3rd element with 4th element using pointers.
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 #include <stdio.h>

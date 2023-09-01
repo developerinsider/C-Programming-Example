@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - Find unique element in two arrays
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
  
 #include <stdio.h>

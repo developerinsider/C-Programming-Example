@@ -1,7 +1,7 @@
 /*********************************************************************************
  Statement - Find the ares of different geometrical figures such as circle, square, rectangle
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *********************************************************************************/
 
 #include <stdio.h>

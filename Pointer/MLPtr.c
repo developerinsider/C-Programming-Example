@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - Multilevel Pointer [With Explanation]
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 

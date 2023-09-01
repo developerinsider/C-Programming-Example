@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - swap the contents of two numbers using bitwise XOR operation. Don't use either the temporary variable or arithmetic operators
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 #include <stdio.h>

@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - check if a string is a subsequence of another string
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
  
  /*

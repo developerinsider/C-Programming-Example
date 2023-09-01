@@ -1,7 +1,7 @@
 /**********************************************
  Statement - Press Me Button Game	
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************/
  
 #include <stdio.h>
@@ -73,7 +73,7 @@ void draw_button(int x, int y)
 void draw()
 {
   settextstyle(SANS_SERIF_FONT,HORIZ_DIR,2);
-  outtextxy(100,451,"Project by http://www.turboc.codeplex.com");
+  outtextxy(100,451,"Project by https://developerinsider.co");
   setcolor(BLUE);
   rectangle(0,0,639,450);
   setcolor(RED);

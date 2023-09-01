@@ -1,7 +1,7 @@
 /*******************************************************
  Statement - Delete the specified integer from the list.
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *******************************************************/
 
 #include <stdio.h>

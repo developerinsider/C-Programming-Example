@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - Get The 1
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 /*

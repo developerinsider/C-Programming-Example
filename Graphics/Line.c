@@ -1,7 +1,7 @@
 /**********************************************
  Statement - Drawing Line in Graphics Mode
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************/
 
 #include<graphics.h>

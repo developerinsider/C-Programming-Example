@@ -1,7 +1,7 @@
 /*******************************************************
  Statement - Accept a list of data items and find the second largest and second smallest elements in it.
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *******************************************************/
 
 /* Accept a list of data items and find the second

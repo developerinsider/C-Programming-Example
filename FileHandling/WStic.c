@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - Write static data in file and read from file
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 

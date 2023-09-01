@@ -1,7 +1,7 @@
 /**********************************************
  Statement - Static Countdown
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************/
 #include <graphics.h>
 #include <dos.h>
@@ -29,7 +29,7 @@ int main()
    }
    cleardevice();
    settextstyle(SANS_SERIF_FONT,HORIZ_DIR,2);
-   outtextxy(300,300,"Project by http://www.turboc.codeplex.com");
+   outtextxy(300,300,"Project by https://developerinsider.co");
    delay(5000);
    closegraph();
    return 0;

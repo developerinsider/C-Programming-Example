@@ -1,7 +1,7 @@
 /**********************************************************
  Statement - Illustrate as to how the data stored on the disk is read
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************/
 
 #include <stdio.h>

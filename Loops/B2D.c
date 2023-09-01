@@ -1,7 +1,7 @@
 /**********************************************************************************
  Statement - Convert the given binary number into decimal
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************************************/
 #include <stdio.h>
 #include <conio.h>

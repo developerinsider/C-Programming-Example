@@ -1,7 +1,7 @@
 /*******************************************************
 Statement - Check leap year in a range.
 Programmer - Vineet Choudhary
-Written For - http://developerinsider.in
+Written For - https://developerinsider.co
 *******************************************************/
 
 #include <stdio.h>

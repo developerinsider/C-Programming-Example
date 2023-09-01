@@ -1,7 +1,7 @@
 /*******************************************************
  Statement - Cyclically permute the elements of an array
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *******************************************************/
 /* Cyclically permute the elements of an array A. i.e. the content of A1 become that of A2.
  And A2 contains that of A3 & so on as An contains A1 */

@@ -1,7 +1,7 @@
 /*******************************************************
  Statement - Display Day of the month.
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *******************************************************/
 
 #include<stdio.h>

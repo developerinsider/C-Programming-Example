@@ -2,7 +2,7 @@
  Statement - Find the value of sin(x) using the series up to the given accuracy
  (without using user defined function). Also print sin(x) using library function.
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************************************************/
 
 #include <stdio.h>

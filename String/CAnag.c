@@ -1,7 +1,7 @@
 /*******************************************************
  Statement - Check whether two strings are anagrams or not
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  *******************************************************/
 
 /*

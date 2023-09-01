@@ -1,7 +1,7 @@
 /*******************************************
 Statement - Sum of array elements using pointers
 Programmer - Vineet Choudhary
-WWritten For - http://developerinsider.in
+WWritten For - https://developerinsider.co
 ********************************************/
 #include<stdio.h>
 #include<conio.h>

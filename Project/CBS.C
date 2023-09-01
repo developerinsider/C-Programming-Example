@@ -76,7 +76,7 @@ void main()
 			delay(700);
 			textcolor(RED);
 			gotoxy(20,12);
-			cprintf("\nProject by http://www.turboc.codeplex.com");
+			cprintf("\nProject by https://developerinsider.co");
 			delay(5000);
 			exit(1);
 	  }

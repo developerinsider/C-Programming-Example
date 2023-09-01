@@ -1,7 +1,7 @@
 /**********************************************
  Statement - Move a Car
  Programmer - Vineet Choudhary
- Written For - http://developerinsider.in
+ Written For - https://developerinsider.co
  **********************************************/
 #include <graphics.h>
 #include <dos.h>
@@ -36,7 +36,7 @@ main()
    getch();
    cleardevice();
    settextstyle(SANS_SERIF_FONT,HORIZ_DIR,2);
-   outtextxy(100,200,"Project by http://www.turboc.codeplex.com");
+   outtextxy(100,200,"Project by https://developerinsider.co");
    delay(5000);
    closegraph();
    return 0;
